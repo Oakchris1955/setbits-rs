@@ -5,6 +5,7 @@ rust-version = "1.78.0"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/Oakchris1955/setbits-rs"
+exclude = [".github/"]
 
 [dependencies]
 akin = "0.4.0"
